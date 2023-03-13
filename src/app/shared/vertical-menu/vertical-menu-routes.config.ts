@@ -15,7 +15,7 @@ export const ROUTES: RouteInfo[] = [
   {
     path: "/exercises/calculator",
     title: "Calculator",
-    icon: "ft-plus-square",
+    icon: "ft-bar-chart",
     class: "",
     badge: "",
     badgeClass: "",
@@ -26,7 +26,7 @@ export const ROUTES: RouteInfo[] = [
   {
     path: "/exercises/gallery",
     title: "Gallery",
-    icon: "ft-camera",
+    icon: "ft-image",
     class: "",
     badge: "",
     badgeClass: "",
@@ -56,7 +56,7 @@ export const ROUTES: RouteInfo[] = [
   {
     path: "/exercises/organizational",
     title: "Organigrama",
-    icon: "ft-mail",
+    icon: "ft-command",
     class: "",
     badge: "",
     badgeClass: "",
